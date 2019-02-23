@@ -11,6 +11,7 @@ After wrangling features from the dataset, the goal was to visualize where resol
 ---
 
 > credit for the dataset goes to StockX
+
 > notebook produced by: Chris Louie
 
 ### email :

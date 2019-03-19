@@ -14,6 +14,10 @@ After wrangling features from the dataset, the goal was to visualize where resol
 
 > notebook produced by: Chris Louie
 
+### Results for the contest:
+
+### [I got an honorable mention!](https://stockx.com/news/2019-data-contest-winner/)
+
 ### email :
 
 > christopher.a.louie@gmail.com
